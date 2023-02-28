@@ -279,11 +279,11 @@ footer .socials {
     display: grid;
     min-height: 100vh;
     place-content: center;
-    background-color: #f4f2f1;
+    background-color: var(--violet);
   }
 
   body {
-    box-shadow: 0 0 10px 2px rgb(0 0 0 / 50%);
-    box-shadow: 0 0 10px 2px rgb(0 0 0 / 50%);
+    box-shadow: 0 0 10px 1px rgb(0 0 0 / 50%);
+    box-shadow: 0 0 10px 1px rgb(0 0 0 / 50%);
   }
 }
